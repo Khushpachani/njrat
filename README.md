@@ -4,6 +4,10 @@
 
 ---
 
+> 📄 **Detailed Analysis Report Available**  
+> 👉 [Click here to open the full PDF](./njrat_Static_Analysis_Report.pdf)
+
+---
 ## 📌 Overview
 
 This repository contains a **detailed static malware analysis** of **njRAT (Bladabindi)** — a widely გავრცელ (and still active) Remote Access Trojan first observed in 2012.
